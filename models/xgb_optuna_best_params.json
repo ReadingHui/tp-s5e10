@@ -1,0 +1,11 @@
+{
+    "max_depth": 7,
+    "num_leaves": 41,
+    "min_child_samples": 48,
+    "colsample_bytree": 0.9749961115071797,
+    "subsample": 0.9996537505319927,
+    "subsample_freq": 46,
+    "reg_alpha": 0.7821288562799138,
+    "reg_lambda": 0.5578363978627132,
+    "min_split_gain": 0.41223227482885366
+}
