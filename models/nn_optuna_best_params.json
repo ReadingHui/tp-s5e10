@@ -1,0 +1,8 @@
+{
+    "n_layers": 2,
+    "n_units_l0": 128,
+    "n_units_l1": 32,
+    "dropout": 0.1,
+    "learning_rate": 0.004474601474071384,
+    "weight_decay": 7.620608670519667e-05
+}
